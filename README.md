@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and video games
 - 🌱 I’m currently learning C and Linux
 - 💞️ I’m looking to collaborate on any project that requires Python, Java or C and is interesting
-- 📫 How to reach me: on discord at Intedai#9642
+- 📫 How to reach me: on Discord at Intedai#9642
 
 <!---
 Intedai/Intedai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
