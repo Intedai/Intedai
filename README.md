@@ -8,5 +8,4 @@ You can click the Preview link to take a look at your changes.
 -  I’m looking to collaborate on any project that is interesting!
 
 ![](https://github-readme-stats.vercel.app/api?username=Intedai&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Intedai&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Intedai&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
